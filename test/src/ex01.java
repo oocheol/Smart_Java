@@ -9,7 +9,6 @@ public class ex01 {
 		int alsdkjflaskjdfl = 1;
 		int b = 4;
 
-		
 	}
 
 }
